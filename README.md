@@ -70,4 +70,7 @@ CURRENCY CRISIS PREDICTION/
 
 ## License
 
+**HBF2212 Capstone Project**
+**Great Zimbabwe University - School of Business Sciences**
+
 MIT
